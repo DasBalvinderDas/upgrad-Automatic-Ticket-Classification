@@ -1,0 +1,3 @@
+# Automatic-Ticket-Classification
+
+In this case study, you are tasked with developing a model that automatically categorizes customer complaints according to the products and services mentioned in the tickets. The model should be capable of recognizing and assigning the appropriate category to each complaint based on its content, which involves identifying key terms and phrases that indicate specific products or services. This will streamline the process of handling customer complaints by ensuring they are directed to the relevant departments quickly and efficiently, thereby improving response times and customer satisfaction. The development of this model requires a thorough analysis of the text within these complaints to train it effectively.
